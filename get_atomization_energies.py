@@ -3,7 +3,7 @@
 import os
 import numpy as np
 
-# dictionary containing elements and their correspinding energies
+# dictionary containing elements and their correspinding energies from: https://doi.org/10.1038/sdata.2014.22
 U0   = {"H": -0.500273, "C":-37.846772, "N":-54.583861, "O":-75.064579, "F":-99.718730}
 U298 = {"H": -0.498857, "C":-37.845355, "N":-54.582445, "O":-75.063163, "F":-99.717314}
 H    = {"H": -0.497912, "C":-37.844411, "N":-54.581501, "O":-75.062219, "F":-99.716370}
